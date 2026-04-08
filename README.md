@@ -29,6 +29,7 @@ R² Score: ~0.63
 Successfully identified multiple true SNPs
 SNP Importance Visualization
 Model Performance (Actual vs Predicted)
+Model Performance (Actual vs Predicted)
 The scatter plot shows that predicted values follow the general trend of the actual values, indicating that the model captures the underlying relationship between SNPs and the trait.
 Some deviation is expected due to noise in the simulated dataset.
 Key Insight
